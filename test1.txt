@@ -1,2 +1,4 @@
 creates test1.txt file
 hello
+hey buddy
+hlw
